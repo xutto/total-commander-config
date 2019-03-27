@@ -1,5 +1,5 @@
 [Buttonbar]
-Buttoncount=24
+Buttoncount=26
 button1=wcmicons.dll
 cmd1=cm_Rereadsource
 iconic1=0
@@ -63,7 +63,13 @@ iconic22=0
 button23=wcmicons.dll,45
 cmd23=cm_CopyFullNamesToClip
 iconic23=0
-button24=C:\Windows\System32\cmd.exe
-cmd24=cmd.exe
-param24=/k "cd /d "%p""
+button24=
 iconic24=0
+button25=C:\Windows\System32\cmd.exe
+cmd25=cmd.exe
+param25=/k "cd /d "%p""
+iconic25=0
+button26=D:\software\VSCode\Code.exe
+cmd26=D:\software\VSCode\Code.exe
+path26=D:\software\VSCode\
+iconic26=0
